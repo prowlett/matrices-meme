@@ -16,4 +16,4 @@ Here:
 
 At present, `results.txt` is 73 items that are output from `mats.py` as is, and `results-squares.txt` is a further set of 24 items where a=e, b=f, c=g and d=h, i.e. a matrix squared. 
 
-Also `worksheet-sm.tex`, `worksheet-sm.pdf` and `worksheet-sm.png` are a version I reformatted a bit to post on social media 5/8/24. 
+Also `worksheet-sm.tex`, `worksheet-sm.pdf` and `worksheet-sm.png` are a version I reformatted a bit to post on social media 5/8/24. I posted this [on Mastodon here](https://mathstodon.xyz/@peterrowlett/112908839913498146).
