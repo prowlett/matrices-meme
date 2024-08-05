@@ -1,0 +1,108 @@
+Matrix multiplication practice worksheet, Peter Rowlett, 5 August 2024
+
+Twenty questions, each of which is one two by two matrix multiplied by another.
+
+Question 1
+first row: 4 8
+second row: 2 3
+times
+first row: 8 8
+second row: 2 7
+
+Question 2
+first row: 3 4
+second row: 6 3
+times
+first row: 9 2
+second row: 3 9
+
+Question 3
+first row: 2 3
+second row: 4 3
+times
+first row: 8 3
+second row: 4 9
+
+Question 4
+first row: 7 5
+second row: 8 6
+times
+first row: 5 5
+second row: 8 4
+
+Question 5
+first row: 5 2
+second row: 9 3
+times
+first row: 8 2
+second row: 9 6
+
+Question 6
+first row: 5 9
+second row: 2 3
+times
+first row: 8 9
+second row: 2 6
+
+Question 7
+first row: 2 2
+second row: 8 7
+times
+first row: 4 2
+second row: 8 9
+
+Question 8
+first row: 7 2
+second row: 8 2
+times
+first row: 9 2
+second row: 8 4
+
+Question 9
+first row: 4 5
+second row: 5 6
+times
+first row: 5 5
+second row: 5 7
+
+Question 10
+first row: 8 5
+second row: 9 6
+times
+first row: 5 5
+second row: 9 3
+
+Question 11
+first row: 5 6
+second row: 3 3
+times
+first row: 8 6
+second row: 3 6
+
+Question 12
+first row: 2 3
+second row: 3 5
+times
+first row: 2 6
+second row: 6 8
+
+Question 13
+first row: 9 9
+second row: 2 2
+times
+first row: 9 9
+second row: 2 2
+
+Question 14
+first row: 3 2
+second row: 7 3
+times
+first row: 8 2
+second row: 7 8
+
+Question 15
+first row: 4 4
+second row: 2 2
+times
+first row: 8 8
+second row: 4 4
